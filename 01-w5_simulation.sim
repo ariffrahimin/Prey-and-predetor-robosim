@@ -1,0 +1,9 @@
+# Environment
+world 00-nowall.wld
+
+# Set visualization on for PSD
+settings VIS TRACE
+
+# Robot are placed at the center of the map
+S4 4000 4000 0 02-prey.py
+S4 3000 4000 0 03-predator.py
